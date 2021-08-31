@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/bpinazmul18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bpinazmul18" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
