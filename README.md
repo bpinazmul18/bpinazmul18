@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nazmul</h1>
 <h3 align="center">A passionate web/app developer who is playing with Reactjs, Redux, Vuejs, Vuex, Nodejs, Expressjs, MongoDB and more...</h3>
+<img src="https://visitor-badge.glitch.me/badge?page_id=bpinazmul18.visitor-badge">
 
 - 🔭 I’m currently working on [BoomDevs](https://boomdevs.com/)
 
