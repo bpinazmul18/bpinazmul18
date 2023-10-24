@@ -10,7 +10,7 @@
 
 
 ## 🛠 Skills
-HTML, CSS, SCSS, Bootstrap, TailwindCSS, JavaScript, TypeScript, React, React Meterial, Headless UI, VueJs, and VueX...
+HTML, CSS, SCSS, Bootstrap, TailwindCSS, JavaScript, TypeScript, React, Redux.js, RTK-Query, Material UI, Headless UI, VueJs, and VueX...
 
 
 ## 🔗 Links
