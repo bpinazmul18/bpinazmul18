@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
- - Doing Frontend with TypeScript React and VueJS 
+ - Software Engineer 
  - Working at [Markopolo.ai]((https://www.markopolo.ai/))
 
 
