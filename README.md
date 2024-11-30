@@ -4,7 +4,7 @@
 ## 🚀 About Me
 
  - Doing Frontend with TypeScript React and VueJS 
- - Working at [Hishabee - ব্যবসা হবে ডিজিটাল]([https://brainstation-23.com](https://hishabee.business/))
+ - Working at [Markopolo.ai]((https://www.markopolo.ai/))
 
 
 
