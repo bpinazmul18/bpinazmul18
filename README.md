@@ -10,7 +10,7 @@
 
 
 ## 🛠 Skills
-HTML, CSS, SCSS, Bootstrap, TailwindCSS, JavaScript, TypeScript, React, Redux.js, RTK-Query, Material UI, Headless UI, VueJs, and VueX...
+React.js, Next.js, Node.js, TypeScript, JavaScript, Express.js, REST API, GraphQL, MongoDB, PostgreSQL, Full Stack Developer, MERN Stack, Remote Developer, Authentication, Authorization, API Integration, Web Performance, Vercel, Docker, Git
 
 
 ## 🔗 Links
